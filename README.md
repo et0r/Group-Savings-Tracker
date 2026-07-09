@@ -24,10 +24,8 @@ A few of us started a savings goal together and needed a simple way to log contr
 
 ## Screenshots
 
-<!-- Add screenshots here -->
 ![Dashboard](screenshots/dashboard.png)
 ![Transaction Log](screenshots/transactions.png)
-![Export Preview](screenshots/export.png)
 
 ## Status
 
